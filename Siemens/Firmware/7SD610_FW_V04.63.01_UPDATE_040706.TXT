@@ -1,0 +1,19 @@
+ 
+ 
+SIPROTEC			CM-P Berlin / 06.08.2008 
+ 
+7SD610_04.63.01.PCK 
+ 
+ 
+Check_CCPU_7SD610.kon		V04.63 
+BOOTLD_C.kon			V01.11 REL_01 
+update_options.xml		zu BOOTLD_C.kon 
+BOOTLD_C_V2.kon			V02.01 REL_01 
+update_options_V2.xml		zu BOOTLD_C_V2.kon 
+7SD610-Firmware			V04.63 REL_01 
+WebMon				V02.00 REL_05 
+ 
+ 
+FirmwareUpdate			V04.07 REL_06 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

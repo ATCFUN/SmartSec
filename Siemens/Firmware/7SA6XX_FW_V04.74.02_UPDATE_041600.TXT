@@ -1,0 +1,18 @@
+ 
+ 
+SIPROTEC			21.07.2015 
+ 
+7SA6xx_04.74.02.PCK 
+ 
+ 
+bootld_C.kon 			V01.17 REL_00 
+update_options.xml		zu bootld_C.kon  
+bootld_C_V2.kon			V02.07 REL_00 
+update_options_V2.xml		zu bootld_C_V2.kon 
+7SA6xx-Firmware			V04.74 REL_02 
+WebMon				V02.04 REL_01 
+ 
+ 
+FirmwareUpdate			V04.16 REL_00 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

@@ -1,0 +1,15 @@
+
+
+   S I P R O T E C           CM-P Berlin / 21.12.2006
+
+   7UT612_04.06.01.PCK
+
+
+   CLEAR_PAR_ACPU.KON    V01.01
+   7UT612-Firmware       V04.06 REL_01
+   Bootsystem ACPU       V01.04 REL_02
+   BuBWebUT612           V01.01 REL_01
+
+   FirmwareUpdate        V04.06 REL_02
+   Makedisc              V04.04 REL_02
+   Readme                V01.02 REL_01

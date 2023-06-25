@@ -1,0 +1,17 @@
+
+
+   S I P R O T E C             CM-P Berlin / 27.01.2006
+
+   7UT613_63x_04.60.06.PCK
+
+
+   Check_CCPU.kon        V04.60 REL_06
+   Bootsystem CCPU       V01.10 REL_01
+   Update-Options        V04.60 REL_06
+   7UT613_63x-Firmware   V04.60 REL_06
+   WebMonUT613_63x       V02.00 REL_04
+
+
+   FirmwareUpdate        V04.06 REL_02
+   Makedisc              V04.04 REL_02
+   Readme                V01.02 REL_01

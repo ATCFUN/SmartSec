@@ -1,0 +1,18 @@
+ 
+ 
+SIPROTEC			24.11.2009 
+ 
+7SA6xx_04.68.03.PCK 
+ 
+ 
+BOOTLD_C.kon			V01.12 REL_01 
+update_options.xml		zu BOOTLD_C.kon 
+BOOTLD_C_V2.kon			V02.02 REL_01 
+update_options_V2.xml		zu BOOTLD_C_V2.kon 
+7SA6xx-Firmware			V04.68 REL_03 
+WebMon				V02.03 REL_01 
+ 
+ 
+FirmwareUpdate			V04.08 REL_02 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

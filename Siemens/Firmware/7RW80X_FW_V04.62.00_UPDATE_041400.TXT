@@ -1,0 +1,15 @@
+ 
+ 
+SIPROTEC			21.02.2013 
+ 
+7RW80x_04.62.00.PCK 
+ 
+ 
+bootld.kon			V01.04 REL_01 
+update_options.xml		zu bootld.kon 
+7RW80x-Firmware			V04.62 REL_00 
+ 
+ 
+FirmwareUpdate			V04.14 REL_00 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

@@ -1,0 +1,19 @@
+
+
+   S I P R O T E C             CM-P Berlin / 28.09.2007
+
+   7VE6xx_04.60.04.PCK
+
+
+   Bootsystem CCPU		V01.11 REL_41
+   Update_options		zu BootSys V01
+   Bootsystem CCPU V2 		V02.01 REL_01
+   Update_options_V2  		zu BootSys V02
+   CLEAR_PAR_CCPU.KON     	V01.03
+   7VE6xx-Firmware      	V04.60 REL_04
+   WEBMONVE6X			V02.00 REL_02
+
+
+   FirmwareUpdate           V04.07 REL_06
+   Makedisc                 V04.05 REL_01
+   Readme                   V01.02 REL_01

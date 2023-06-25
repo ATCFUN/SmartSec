@@ -1,0 +1,16 @@
+ 
+ 
+SIPROTEC			14.09.2016 
+ 
+7SC80x_04.31.01.PCK 
+ 
+ 
+bootld_SCP2.kon			V01.07 REL_00 
+update_options.xml		zu bootld_SCP2.kon 
+7SC80x-Firmware			V04.31 REL_01 
+WebMon				V03.06 REL_00 
+ 
+ 
+FirmwareUpdate			V04.17 REL_01 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

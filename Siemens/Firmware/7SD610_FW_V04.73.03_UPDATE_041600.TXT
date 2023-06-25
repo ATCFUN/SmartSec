@@ -1,0 +1,17 @@
+ 
+ 
+SIPROTEC			20.08.2014 
+ 
+7SD610_04.73.03.PCK 
+ 
+ 
+7SD610-Firmware			V04.73 REL_03 
+
+	7SD610_TYPE_CRH2_DEV.PCK
+	7SD610_TYPE_CCX2_DEV.PCK
+ 
+ 
+FirmwareUpdate			V04.16 REL_00 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 
+

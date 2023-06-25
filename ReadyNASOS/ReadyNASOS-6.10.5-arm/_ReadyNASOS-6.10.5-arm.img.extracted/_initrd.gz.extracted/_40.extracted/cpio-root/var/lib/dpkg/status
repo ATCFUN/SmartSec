@@ -1,0 +1,1816 @@
+Package: acl
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.2.52-2
+
+Package: adduser
+Architecture: all
+Multi-Arch: foreign
+Version: 3.113+nmu3
+
+Package: apache2
+Architecture: armel
+Version: 2.4.25-3+deb9u6.netgear2
+
+Package: apache2-bin
+Architecture: armel
+Version: 2.4.25-3+deb9u6.netgear2
+
+Package: apache2-data
+Architecture: all
+Multi-Arch: foreign
+Version: 2.4.25-3+deb9u6.netgear2
+
+Package: apache2-utils
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.4.25-3+deb9u6.netgear2
+
+Package: apt
+Architecture: armel
+Version: 1.2.29+netgear1
+
+Package: apt-transport-https
+Architecture: armel
+Version: 1.2.29+netgear1
+
+Package: attr
+Architecture: armel
+Multi-Arch: foreign
+Version: 1:2.4.47-2
+
+Package: avahi-daemon
+Architecture: armel
+Multi-Arch: foreign
+Version: 0.6.32-0.netgear2
+
+Package: avahi-utils
+Architecture: armel
+Version: 0.6.32-0.netgear2
+
+Package: base-files
+Architecture: armel
+Multi-Arch: foreign
+Version: 8+deb8u11
+
+Package: base-passwd
+Architecture: armel
+Multi-Arch: foreign
+Version: 3.5.37
+
+Package: bash
+Architecture: armel
+Multi-Arch: foreign
+Version: 4.3-11+deb8u2
+
+Package: bind9-host
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: bsdtar
+Architecture: armel
+Version: 3.1.2-11+deb8u8
+
+Package: bsdutils
+Architecture: armel
+Multi-Arch: foreign
+Version: 1:2.25.2-6.netgear1
+
+Package: btrfs-tools
+Architecture: armel
+Version: 4.16-netgear6
+
+Package: busybox
+Architecture: armel
+Version: 1:1.22.0-9+deb8u4
+
+Package: busybox-dnsutils
+Architecture: all
+Version: 1:1.22.0-4.netgear1
+
+Package: busybox-less
+Architecture: all
+Version: 1:1.22.0-4.netgear1
+
+Package: busybox-tftp
+Architecture: all
+Version: 1:1.22.0-4.netgear1
+
+Package: busybox-unzip
+Architecture: all
+Version: 1:1.22.0-4.netgear1
+
+Package: ca-certificates
+Architecture: all
+Multi-Arch: foreign
+Version: 20141019+deb8u4
+
+Package: cifs-utils
+Architecture: armel
+Version: 2:6.6-1.netgear1
+
+Package: clamav
+Architecture: armel
+Multi-Arch: foreign
+Version: 0.100.2+dfsg-0+deb8u1.netgear5
+
+Package: clamav-base
+Architecture: all
+Version: 0.100.2+dfsg-0+deb8u1.netgear5
+
+Package: clamav-daemon
+Architecture: armel
+Version: 0.100.2+dfsg-0+deb8u1.netgear5
+
+Package: clamav-freshclam
+Architecture: armel
+Version: 0.100.2+dfsg-0+deb8u1.netgear5
+
+Package: connman
+Architecture: armel
+Version: 1.37-netgear2
+
+Package: coreutils
+Architecture: armel
+Multi-Arch: foreign
+Version: 8.25-2
+
+Package: cron
+Architecture: armel
+Version: 3.0pl1-127.netgear1
+
+Package: cryptsetup-bin
+Architecture: armel
+Version: 2:1.6.6-5
+
+Package: curl
+Architecture: armel
+Multi-Arch: foreign
+Version: 7.64.0-0.netgear1
+
+Package: dash
+Architecture: armel
+Version: 0.5.7-4+b1
+
+Package: dbus
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.8.22-0+deb8u2
+
+Package: dconf-cli
+Architecture: armel
+Version: 0.22.0-1
+
+Package: dconf-gsettings-backend
+Architecture: armel
+Multi-Arch: same
+Version: 0.22.0-1
+
+Package: dconf-service
+Architecture: armel
+Multi-Arch: foreign
+Version: 0.22.0-1
+
+Package: debconf
+Architecture: all
+Multi-Arch: foreign
+Version: 1.5.56+deb8u1
+
+Package: debconf-i18n
+Architecture: all
+Version: 1.5.56+deb8u1
+
+Package: debian-archive-keyring
+Architecture: all
+Multi-Arch: foreign
+Version: 2017.5~deb8u1
+
+Package: debianutils
+Architecture: armel
+Multi-Arch: foreign
+Version: 4.4+b1
+
+Package: diffutils
+Architecture: armel
+Version: 1:3.3-1+b1
+
+Package: dmsetup
+Architecture: armel
+Multi-Arch: foreign
+Version: 2:1.02.90-2.2+deb8u1
+
+Package: dosfstools
+Architecture: armel
+Version: 3.0.27-1
+
+Package: dpkg
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.17.27
+
+Package: dropbear
+Architecture: armel
+Version: 2018.76-netgear1
+
+Package: e2fslibs
+Architecture: armel
+Multi-Arch: same
+Version: 1.42.13-1.netgear2
+
+Package: e2fsprogs
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.42.13-1.netgear2
+
+Package: etherwake
+Architecture: armel
+Version: 1.09-4
+
+Package: ethtool
+Architecture: armel
+Version: 1:3.16-1
+
+Package: findutils
+Architecture: armel
+Multi-Arch: foreign
+Version: 4.4.2-9+b1
+
+Package: forked-daapd
+Architecture: armel
+Version: 24.2-0.netgear3
+
+Package: gcc-4.9-base
+Architecture: armel
+Multi-Arch: same
+Version: 4.9.2-10+deb8u2
+
+Package: gdisk
+Architecture: armel
+Version: 1.0.4-1.netgear1
+
+Package: glib-networking
+Architecture: armel
+Multi-Arch: same
+Version: 2.42.0-2
+
+Package: glib-networking-common
+Architecture: all
+Multi-Arch: foreign
+Version: 2.42.0-2
+
+Package: glib-networking-services
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.42.0-2
+
+Package: gnupg
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.4.18-7+deb8u5
+
+Package: gpgv
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.4.18-7+deb8u5
+
+Package: gphoto2
+Architecture: armel
+Version: 2.5.17-1.netgear2
+
+Package: grep
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.20-4.1
+
+Package: gsettings-desktop-schemas
+Architecture: all
+Multi-Arch: foreign
+Version: 3.14.1-1
+
+Package: gzip
+Architecture: armel
+Version: 1.6-4
+
+Package: hdparm
+Architecture: armel
+Version: 9.43-2
+
+Package: hfsprogs
+Architecture: armel
+Version: 332.25-11
+
+Package: hostname
+Architecture: armel
+Version: 3.15
+
+Package: init-system-helpers
+Architecture: all
+Multi-Arch: foreign
+Version: 1.22
+
+Package: initscripts
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.88dsf-59
+
+Package: inotify-tools
+Architecture: armel
+Version: 3.14-1+b1
+
+Package: insserv
+Architecture: armel
+Version: 1.14.0-5
+
+Package: iptables
+Architecture: armel
+Version: 1.4.21-2+b1
+
+Package: kmod
+Architecture: armel
+Multi-Arch: foreign
+Version: 18-3
+
+Package: leafp2p
+Architecture: armel
+Multi-Arch: same
+Version: 2.2.2
+
+Package: libacl1
+Architecture: armel
+Multi-Arch: same
+Version: 2.2.52-2
+
+Package: libaio1
+Architecture: armel
+Multi-Arch: same
+Version: 0.3.110-1
+
+Package: libantlr3c-3.2-0
+Architecture: armel
+Multi-Arch: same
+Version: 3.2-3
+
+Package: libapache2-mod-auth-token
+Architecture: armel
+Version: 1.0.9
+
+Package: libapache2-mod-authnz-external
+Architecture: armel
+Version: 3.3.2-0.1.netgear1
+
+Package: libapache2-mod-authz-unixgroup
+Architecture: armel
+Version: 1.1.0-0.1.netgear1
+
+Package: libapache2-mod-csrf
+Architecture: armel
+Version: 1.0+netgear1
+
+Package: libapache2-mod-parp
+Architecture: armel
+Version: 1.1+netgear1
+
+Package: libapparmor1
+Architecture: armel
+Multi-Arch: same
+Version: 2.10.95-4~bpo8+2
+
+Package: libapr1
+Architecture: armel
+Multi-Arch: same
+Version: 1.5.1-3
+
+Package: libaprutil1
+Architecture: armel
+Multi-Arch: same
+Version: 1.5.4-1
+
+Package: libaprutil1-dbd-sqlite3
+Architecture: armel
+Multi-Arch: same
+Version: 1.5.4-1
+
+Package: libaprutil1-ldap
+Architecture: armel
+Multi-Arch: same
+Version: 1.5.4-1
+
+Package: libapt-pkg5.0
+Architecture: armel
+Multi-Arch: same
+Version: 1.2.29+netgear1
+
+Package: libarchive13
+Architecture: armel
+Multi-Arch: same
+Version: 3.1.2-11+deb8u8
+
+Package: libasound2
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.28-1
+
+Package: libasound2-data
+Architecture: all
+Multi-Arch: foreign
+Version: 1.0.28-1
+
+Package: libattr1
+Architecture: armel
+Multi-Arch: same
+Version: 1:2.4.47-2
+
+Package: libaudit-common
+Architecture: all
+Multi-Arch: foreign
+Version: 1:2.8.5-1.netgear1
+
+Package: libaudit1
+Architecture: armel
+Multi-Arch: same
+Version: 1:2.8.5-1.netgear1
+
+Package: libavahi-client3
+Architecture: armel
+Multi-Arch: same
+Version: 0.6.32-0.netgear2
+
+Package: libavahi-common-data
+Architecture: armel
+Multi-Arch: same
+Version: 0.6.32-0.netgear2
+
+Package: libavahi-common3
+Architecture: armel
+Multi-Arch: same
+Version: 0.6.32-0.netgear2
+
+Package: libavahi-core7
+Architecture: armel
+Multi-Arch: same
+Version: 0.6.32-0.netgear2
+
+Package: libavcodec57
+Architecture: armel
+Multi-Arch: same
+Version: 7:3.4.4-netgear1
+
+Package: libavfilter6
+Architecture: armel
+Multi-Arch: same
+Version: 7:3.4.4-netgear1
+
+Package: libavformat57
+Architecture: armel
+Multi-Arch: same
+Version: 7:3.4.4-netgear1
+
+Package: libavutil55
+Architecture: armel
+Multi-Arch: same
+Version: 7:3.4.4-netgear1
+
+Package: libbind9-90
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: libblkid1
+Architecture: armel
+Multi-Arch: same
+Version: 2.25.2-6.netgear1
+
+Package: libbluetooth3
+Architecture: armel
+Multi-Arch: same
+Version: 5.40-0.netgear1
+
+Package: libboost-atomic1.55.0
+Architecture: armel
+Multi-Arch: same
+Version: 1.55.0+dfsg-3
+
+Package: libboost-system1.55.0
+Architecture: armel
+Multi-Arch: same
+Version: 1.55.0+dfsg-3
+
+Package: libboost-thread1.55.0
+Architecture: armel
+Multi-Arch: same
+Version: 1.55.0+dfsg-3
+
+Package: libbsd0
+Architecture: armel
+Multi-Arch: same
+Version: 0.7.0-2
+
+Package: libbz2-1.0
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.6-7+deb8u2
+
+Package: libc-bin
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.19-18+deb8u10.netgear1
+
+Package: libc6
+Architecture: armel
+Multi-Arch: same
+Version: 2.19-18+deb8u10.netgear1
+
+Package: libcap-ng0
+Architecture: armel
+Multi-Arch: same
+Version: 0.7.4-2.netgear1
+
+Package: libcap2
+Architecture: armel
+Multi-Arch: same
+Version: 1:2.24-8
+
+Package: libcap2-bin
+Architecture: armel
+Multi-Arch: foreign
+Version: 1:2.24-8
+
+Package: libcgicc5
+Architecture: armel
+Multi-Arch: same
+Version: 3.2.9-3.netgear1
+
+Package: libclamav7
+Architecture: armel
+Version: 0.100.2+dfsg-0+deb8u1.netgear5
+
+Package: libcomerr2
+Architecture: armel
+Multi-Arch: same
+Version: 1.42.13-1.netgear2
+
+Package: libconfuse-common
+Architecture: all
+Multi-Arch: foreign
+Version: 2.7-5+deb8u1
+
+Package: libconfuse0
+Architecture: armel
+Multi-Arch: same
+Version: 2.7-5+deb8u1
+
+Package: libcrypto++9
+Architecture: armel
+Version: 5.6.1-6+deb8u3
+
+Package: libcryptsetup4
+Architecture: armel
+Multi-Arch: same
+Version: 2:1.6.6-5
+
+Package: libcsv3
+Architecture: armel
+Multi-Arch: same
+Version: 3.0.3+dfsg-2
+
+Package: libcups2
+Architecture: armel
+Multi-Arch: same
+Version: 1.7.5-11+deb8u6
+
+Package: libcurl3
+Architecture: armel
+Multi-Arch: same
+Version: 7.64.0-0.netgear1
+
+Package: libcurl3-gnutls
+Architecture: armel
+Multi-Arch: same
+Version: 7.64.0-0.netgear1
+
+Package: libdaemon0
+Architecture: armel
+Multi-Arch: same
+Version: 0.14-6
+
+Package: libdb5.1
+Architecture: armel
+Multi-Arch: same
+Version: 5.1.29-5
+
+Package: libdb5.3
+Architecture: armel
+Multi-Arch: same
+Version: 5.3.28-9+deb8u1
+
+Package: libdbus-1-3
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.22-0+deb8u2
+
+Package: libdconf1
+Architecture: armel
+Multi-Arch: same
+Version: 0.22.0-1
+
+Package: libdebconfclient0
+Architecture: armel
+Multi-Arch: same
+Version: 0.192
+
+Package: libdevmapper1.02.1
+Architecture: armel
+Multi-Arch: same
+Version: 2:1.02.90-2.2+deb8u1
+
+Package: libdns100
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: libedit2
+Architecture: armel
+Multi-Arch: same
+Version: 3.1-20140620-2
+
+Package: libenca0
+Architecture: armel
+Multi-Arch: same
+Version: 1.16-1
+
+Package: libevent-2.0-5
+Architecture: armel
+Multi-Arch: same
+Version: 2.0.21-stable-2+deb8u1
+
+Package: libexempi3
+Architecture: armel
+Multi-Arch: same
+Version: 2.2.1-2
+
+Package: libexif12
+Architecture: armel
+Multi-Arch: same
+Version: 0.6.21-2
+
+Package: libexiv2-12
+Architecture: armel
+Version: 0.23-1
+
+Package: libexiv2-13
+Architecture: armel
+Multi-Arch: same
+Version: 0.24-4.1+deb8u4
+
+Package: libexpat1
+Architecture: armel
+Multi-Arch: same
+Version: 2.1.0-6+deb8u6
+
+Package: libffi6
+Architecture: armel
+Multi-Arch: same
+Version: 3.1-2+deb8u1
+
+Package: libflac8
+Architecture: armel
+Multi-Arch: same
+Version: 1.3.0-3
+
+Package: libgcc1
+Architecture: armel
+Multi-Arch: same
+Version: 1:4.9.2-10+deb8u2
+
+Package: libgcrypt20
+Architecture: armel
+Multi-Arch: same
+Version: 1.6.3-2+deb8u7
+
+Package: libgdbm3
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.3-13.1
+
+Package: libgeoip1
+Architecture: armel
+Multi-Arch: same
+Version: 1.6.2-4
+
+Package: libgflags2v5
+Architecture: armel
+Multi-Arch: same
+Version: 2.1.2-3~netgear1
+
+Package: libgif4
+Architecture: armel
+Multi-Arch: same
+Version: 4.1.6-11+deb8u1
+
+Package: libglib2.0-0
+Architecture: armel
+Multi-Arch: same
+Version: 2.48.0-1~bpo8+1
+
+Package: libgmp10
+Architecture: armel
+Multi-Arch: same
+Version: 2:6.0.0+dfsg-6
+
+Package: libgnutls-deb0-28
+Architecture: armel
+Multi-Arch: same
+Version: 3.3.30-0+deb8u1
+
+Package: libgoogle-glog0v5
+Architecture: armel
+Multi-Arch: same
+Version: 0.3.4-2~netgear1
+
+Package: libgpg-error0
+Architecture: armel
+Multi-Arch: same
+Version: 1.17-3
+
+Package: libgphoto2-6
+Architecture: armel
+Multi-Arch: same
+Version: 2.5.19-0.netgear2
+
+Package: libgphoto2-port12
+Architecture: armel
+Multi-Arch: same
+Version: 2.5.19-0.netgear2
+
+Package: libgsasl7
+Architecture: armel
+Version: 1.8.0-6
+
+Package: libgsf-1-114
+Architecture: armel
+Version: 1.14.30-2
+
+Package: libgsf-1-common
+Architecture: all
+Version: 1.14.30-2
+
+Package: libgsoap5
+Architecture: armel
+Multi-Arch: same
+Version: 2.8.17-1+deb8u2
+
+Package: libgssapi-krb5-2
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.1+dfsg-19+deb8u5
+
+Package: libhogweed2
+Architecture: armel
+Multi-Arch: same
+Version: 2.7.1-5+deb8u2
+
+Package: libid3tag0
+Architecture: armel
+Version: 0.15.1b-11
+
+Package: libidn11
+Architecture: armel
+Multi-Arch: same
+Version: 1.29-1+deb8u3
+
+Package: libinotifytools0
+Architecture: armel
+Version: 3.14-1+b1
+
+Package: libiptcdata0
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.4-4+0.netgear1
+
+Package: libisc95
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: libisccc90
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: libisccfg90
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: libjbig0
+Architecture: armel
+Multi-Arch: same
+Version: 2.1-3.1
+
+Package: libjpeg62-turbo
+Architecture: armel
+Multi-Arch: same
+Version: 1:1.5.1-2
+
+Package: libjson-c2
+Architecture: armel
+Multi-Arch: same
+Version: 0.11-4
+
+Package: libjson-glib-1.0-0
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.2-1
+
+Package: libjson-glib-1.0-common
+Architecture: all
+Multi-Arch: foreign
+Version: 1.0.2-1
+
+Package: libjson7
+Architecture: armel
+Multi-Arch: same
+Version: 7.6.1-netgear2
+
+Package: libk5crypto3
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.1+dfsg-19+deb8u5
+
+Package: libkeyutils1
+Architecture: armel
+Multi-Arch: same
+Version: 1.5.9-5+b1
+
+Package: libkmod2
+Architecture: armel
+Multi-Arch: same
+Version: 18-3
+
+Package: libkrb5-3
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.1+dfsg-19+deb8u5
+
+Package: libkrb5support0
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.1+dfsg-19+deb8u5
+
+Package: libldap-2.4-2
+Architecture: armel
+Multi-Arch: same
+Version: 2.4.40+dfsg-1+deb8u5
+
+Package: libldb1
+Architecture: armel
+Multi-Arch: same
+Version: 2:1.3.8-0.netgear1
+
+Package: libllconf0
+Architecture: armel
+Multi-Arch: same
+Version: 0.4.6-netgear2
+
+Package: libllvm3.5
+Architecture: armel
+Multi-Arch: same
+Version: 1:3.5-10
+
+Package: liblocale-gettext-perl
+Architecture: armel
+Version: 1.05-8+b1
+
+Package: libltdl7
+Architecture: armel
+Multi-Arch: same
+Version: 2.4.6-2
+
+Package: liblua5.1-0
+Architecture: armel
+Multi-Arch: same
+Version: 5.1.5-7.1
+
+Package: liblua5.2-0
+Architecture: armel
+Multi-Arch: same
+Version: 5.2.3-1.1
+
+Package: liblwres90
+Architecture: armel
+Version: 1:9.9.5.dfsg-9+deb8u18
+
+Package: liblz4-1
+Architecture: armel
+Multi-Arch: same
+Version: 0.0~r131-2
+
+Package: liblz4-tool
+Architecture: armel
+Multi-Arch: foreign
+Version: 0.0~r131-2
+
+Package: liblzma5
+Architecture: armel
+Multi-Arch: same
+Version: 5.1.1alpha+20120614-2+b3
+
+Package: liblzo2-2
+Architecture: armel
+Multi-Arch: same
+Version: 2.08-1.2
+
+Package: libmount1
+Architecture: armel
+Multi-Arch: same
+Version: 2.25.2-6.netgear1
+
+Package: libmp3lame0
+Architecture: armel
+Multi-Arch: same
+Version: 3.99.5+repack1-7+deb8u2
+
+Package: libmspack0
+Architecture: armel
+Multi-Arch: same
+Version: 0.5-1+deb8u4
+
+Package: libmxml1
+Architecture: armel
+Version: 2.6-2+deb8u1
+
+Package: libncurses5
+Architecture: armel
+Multi-Arch: same
+Version: 5.9+20140913-1+deb8u3
+
+Package: libncursesw5
+Architecture: armel
+Multi-Arch: same
+Version: 5.9+20140913-1+deb8u3
+
+Package: libnettle4
+Architecture: armel
+Multi-Arch: same
+Version: 2.7.1-5+deb8u2
+
+Package: libnfnetlink0
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.1-3
+
+Package: libnfsidmap2
+Architecture: armel
+Multi-Arch: same
+Version: 0.25-5
+
+Package: libnml
+Architecture: armel
+Version: 197
+
+Package: libnss-llmnr
+Architecture: armel
+Multi-Arch: same
+Version: 0.10-netgear2
+
+Package: libnss-mdns
+Architecture: armel
+Multi-Arch: same
+Version: 0.10-6
+
+Package: libnss-myhostname
+Architecture: armel
+Multi-Arch: same
+Version: 230-7~bpo8+2.netgear3
+
+Package: libnss-winbind
+Architecture: armel
+Multi-Arch: same
+Version: 2:4.8.0-12.netgear3
+
+Package: libntfs-3g851
+Architecture: armel
+Version: 1:2014.2.15AR.1-1.netgear1
+
+Package: libntlm0
+Architecture: armel
+Multi-Arch: same
+Version: 1.4-3
+
+Package: libogg0
+Architecture: armel
+Multi-Arch: same
+Version: 1.3.2-1
+
+Package: libp11-kit0
+Architecture: armel
+Multi-Arch: same
+Version: 0.20.7-1
+
+Package: libpam-modules
+Architecture: armel
+Multi-Arch: same
+Version: 1.1.8-3.1+deb8u2.netgear3
+
+Package: libpam-modules-bin
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.1.8-3.1+deb8u2.netgear3
+
+Package: libpam-runtime
+Architecture: all
+Multi-Arch: foreign
+Version: 1.1.8-3.1+deb8u2.netgear3
+
+Package: libpam0g
+Architecture: armel
+Multi-Arch: same
+Version: 1.1.8-3.1+deb8u2.netgear3
+
+Package: libparson0
+Architecture: armel
+Multi-Arch: same
+Version: 0.0.0
+
+Package: libpci3
+Architecture: armel
+Multi-Arch: same
+Version: 1:3.2.1-3
+
+Package: libpcre3
+Architecture: armel
+Multi-Arch: same
+Version: 2:8.35-3.3+deb8u4
+
+Package: libperl5.20
+Architecture: armel
+Version: 5.20.2-3+deb8u12
+
+Package: libpng12-0
+Architecture: armel
+Multi-Arch: same
+Version: 1.2.50-2+deb8u3
+
+Package: libpococrypto50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpocodata50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpocodatasqlite50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpocofoundation50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpocojson50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpoconet50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpoconetssl50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpocoutil50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpocoxml50
+Architecture: armel
+Multi-Arch: same
+Version: 1.8.1-netgear3
+
+Package: libpopt0
+Architecture: armel
+Multi-Arch: same
+Version: 1.16-10
+
+Package: libprocps3
+Architecture: armel
+Multi-Arch: same
+Version: 2:3.3.9-9+deb8u1
+
+Package: libprotobuf-c1
+Architecture: armel
+Version: 1.0.2-1
+
+Package: libproxy1
+Architecture: armel
+Multi-Arch: same
+Version: 0.4.11-4+b2
+
+Package: libpython2.7-minimal
+Architecture: armel
+Multi-Arch: same
+Version: 2.7.9-2+deb8u1
+
+Package: libraw10
+Architecture: armel
+Multi-Arch: same
+Version: 0.16.0-9+deb8u3.netgear1
+
+Package: librddclient
+Architecture: armel
+Version: 5903
+
+Package: libreadline6
+Architecture: armel
+Multi-Arch: same
+Version: 6.3-8+b3
+
+Package: librnimage1
+Architecture: armel
+Version: 1.0.1
+
+Package: libsasl2-2
+Architecture: armel
+Multi-Arch: same
+Version: 2.1.26.dfsg1-13+deb8u1
+
+Package: libsasl2-modules-db
+Architecture: armel
+Multi-Arch: same
+Version: 2.1.26.dfsg1-13+deb8u1
+
+Package: libseccomp2
+Architecture: armel
+Multi-Arch: same
+Version: 2.2.3-3~bpo8+1
+
+Package: libselinux1
+Architecture: armel
+Multi-Arch: same
+Version: 2.3-2
+
+Package: libsemanage-common
+Architecture: all
+Multi-Arch: foreign
+Version: 2.3-1
+
+Package: libsemanage1
+Architecture: armel
+Multi-Arch: same
+Version: 2.3-1+b1
+
+Package: libsensors4
+Architecture: armel
+Multi-Arch: same
+Version: 1:3.4.0-4.netgear1
+
+Package: libsepol1
+Architecture: armel
+Multi-Arch: same
+Version: 2.3-2
+
+Package: libsgutils2-2
+Architecture: armel
+Multi-Arch: same
+Version: 1.42-2.netgear1
+
+Package: libslang2
+Architecture: armel
+Multi-Arch: same
+Version: 2.3.0-2
+
+Package: libsmartcols1
+Architecture: armel
+Multi-Arch: same
+Version: 2.25.2-6.netgear1
+
+Package: libsmbclient
+Architecture: armel
+Multi-Arch: same
+Version: 2:4.8.0-12.netgear3
+
+Package: libsnmp-base
+Architecture: all
+Multi-Arch: foreign
+Version: 5.7.2.1+dfsg-1+deb8u2.netgear1
+
+Package: libsnmp30
+Architecture: armel
+Multi-Arch: same
+Version: 5.7.2.1+dfsg-1+deb8u2.netgear1
+
+Package: libsoup2.4-1
+Architecture: armel
+Multi-Arch: same
+Version: 2.48.0-1+deb8u2
+
+Package: libsqlite3-0
+Architecture: armel
+Multi-Arch: same
+Version: 3.25.2-0.netgear1
+
+Package: libss2
+Architecture: armel
+Multi-Arch: same
+Version: 1.42.13-1.netgear2
+
+Package: libssh2-1
+Architecture: armel
+Multi-Arch: same
+Version: 1.4.3-4.1+deb8u1
+
+Package: libssl1.0.0
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.1t-1+deb8u12
+
+Package: libstdc++6
+Architecture: armel
+Multi-Arch: same
+Version: 4.9.2-10+deb8u2
+
+Package: libstemmer0d
+Architecture: armel
+Multi-Arch: same
+Version: 0+svn585-1
+
+Package: libsubunit0
+Architecture: armel
+Multi-Arch: same
+Version: 0.0.18-4
+
+Package: libswresample2
+Architecture: armel
+Multi-Arch: same
+Version: 7:3.4.4-netgear1
+
+Package: libswscale4
+Architecture: armel
+Multi-Arch: same
+Version: 7:3.4.4-netgear1
+
+Package: libsystemd0
+Architecture: armel
+Multi-Arch: same
+Version: 230-7~bpo8+2.netgear3
+
+Package: libtalloc2
+Architecture: armel
+Multi-Arch: same
+Version: 2.1.11-0.netgear1
+
+Package: libtasn1-6
+Architecture: armel
+Multi-Arch: same
+Version: 4.2-3+deb8u3
+
+Package: libtdb1
+Architecture: armel
+Multi-Arch: same
+Version: 1.3.15-0.netgear1
+
+Package: libtevent0
+Architecture: armel
+Multi-Arch: same
+Version: 0.9.36-0.netgear1
+
+Package: libtext-charwidth-perl
+Architecture: armel
+Version: 0.04-7+b3
+
+Package: libtext-iconv-perl
+Architecture: armel
+Version: 1.7-5+b2
+
+Package: libtext-wrapi18n-perl
+Architecture: all
+Version: 0.06-7
+
+Package: libtiff5
+Architecture: armel
+Multi-Arch: same
+Version: 4.0.3-12.3+deb8u9
+
+Package: libtinfo5
+Architecture: armel
+Multi-Arch: same
+Version: 5.9+20140913-1+deb8u3
+
+Package: libtirpc1
+Architecture: armel
+Multi-Arch: same
+Version: 0.2.5-1+deb8u2
+
+Package: libtracker-control-1.0-0
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.3-0.netgear2
+
+Package: libtracker-miner-1.0-0
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.3-0.netgear2
+
+Package: libtracker-sparql-1.0-0
+Architecture: armel
+Multi-Arch: same
+Version: 1.12.3-0.netgear2
+
+Package: libudev1
+Architecture: armel
+Multi-Arch: same
+Version: 230-7~bpo8+2.netgear3
+
+Package: libunistring0
+Architecture: armel
+Multi-Arch: same
+Version: 0.9.3-5.2+b1
+
+Package: libupsclient4
+Architecture: armel
+Multi-Arch: same
+Version: 2.7.4-3.netgear4
+
+Package: liburiparser1
+Architecture: armel
+Multi-Arch: same
+Version: 0.8.4-1+deb9u1.netgear1
+
+Package: libusb-0.1-4
+Architecture: armel
+Multi-Arch: same
+Version: 2:0.1.12-25+0.netgear1
+
+Package: libusb-1.0-0
+Architecture: armel
+Multi-Arch: same
+Version: 2:1.0.19-1
+
+Package: libustr-1.0-1
+Architecture: armel
+Multi-Arch: same
+Version: 1.0.4-3+b2
+
+Package: libuuid1
+Architecture: armel
+Multi-Arch: same
+Version: 2.25.2-6.netgear1
+
+Package: libvorbis0a
+Architecture: armel
+Multi-Arch: same
+Version: 1.3.4-2+deb8u1
+
+Package: libvorbisfile3
+Architecture: armel
+Multi-Arch: same
+Version: 1.3.4-2+deb8u1
+
+Package: libwbclient0
+Architecture: armel
+Multi-Arch: same
+Version: 2:4.8.0-12.netgear3
+
+Package: libwrap0
+Architecture: armel
+Multi-Arch: same
+Version: 7.6.q-25
+
+Package: libxml2
+Architecture: armel
+Multi-Arch: same
+Version: 2.9.1+dfsg1-5+deb8u7
+
+Package: libxtables10
+Architecture: armel
+Version: 1.4.21-2+b1
+
+Package: linux-image
+Architecture: armel
+Version: 4.4.218-610050003
+
+Package: login
+Architecture: armel
+Version: 1:4.2-3+deb8u4
+
+Package: logrotate
+Architecture: armel
+Version: 3.8.7-1+b1
+
+Package: lsb-base
+Architecture: all
+Multi-Arch: foreign
+Version: 4.1+Debian13+nmu1
+
+Package: lsof
+Architecture: armel
+Version: 4.86+dfsg-1.netgear1
+
+Package: lsyncd
+Architecture: armel
+Version: 2.1.5-2
+
+Package: lua5.1
+Architecture: armel
+Multi-Arch: foreign
+Version: 5.1.5-7.1
+
+Package: lzop
+Architecture: armel
+Version: 1.03-3
+
+Package: mawk
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.3.3-17
+
+Package: mdadm
+Architecture: armel
+Version: 4.1-0.netgear2
+
+Package: mime-support
+Architecture: all
+Multi-Arch: foreign
+Version: 3.58
+
+Package: minidlna
+Architecture: armel
+Version: 1.2.1-netgear3
+
+Package: minissdpd
+Architecture: armel
+Version: 1.4-netgear5
+
+Package: mount
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.25.2-6.netgear1
+
+Package: msmtp
+Architecture: armel
+Version: 1.6.8-netgear1
+
+Package: multiarch-support
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.19-18+deb8u10.netgear1
+
+Package: ncftp
+Architecture: armel
+Version: 2:3.2.5-1.1
+
+Package: ncurses-base
+Architecture: all
+Multi-Arch: foreign
+Version: 5.9+20140913-1+deb8u3
+
+Package: ncurses-bin
+Architecture: armel
+Multi-Arch: foreign
+Version: 5.9+20140913-1+deb8u3
+
+Package: net-tools
+Architecture: armel
+Version: 1.60-26+b1
+
+Package: netatalk
+Architecture: armel
+Version: 3.1.12-netgear2
+
+Package: netbase
+Architecture: all
+Multi-Arch: foreign
+Version: 5.3
+
+Package: nfs-common
+Architecture: armel
+Version: 1:1.2.8-9
+
+Package: nfs-kernel-server
+Architecture: armel
+Version: 1:1.2.8-9
+
+Package: noflushd
+Architecture: armel
+Version: 2.8.netgear12
+
+Package: ntfsprogs
+Architecture: armel
+Version: 1:2014.2.15AR.1-1.netgear1
+
+Package: ntpdate
+Architecture: armel
+Version: 1:4.2.6.p5+dfsg-7+deb8u2
+
+Package: nut
+Architecture: all
+Version: 2.7.4-3.netgear4
+
+Package: nut-client
+Architecture: armel
+Version: 2.7.4-3.netgear4
+
+Package: nut-server
+Architecture: armel
+Version: 2.7.4-3.netgear4
+
+Package: nut-snmp
+Architecture: armel
+Version: 2.7.4-3.netgear4
+
+Package: openssh-client
+Architecture: armel
+Multi-Arch: foreign
+Version: 1:6.7p1-5+deb8u7.netgear1
+
+Package: openssh-server
+Architecture: armel
+Multi-Arch: foreign
+Version: 1:6.7p1-5+deb8u7.netgear1
+
+Package: openssh-sftp-server
+Architecture: armel
+Version: 1:6.7p1-5+deb8u7.netgear1
+
+Package: openssl
+Architecture: armel
+Version: 1.0.1t-1+deb8u12
+
+Package: passwd
+Architecture: armel
+Multi-Arch: foreign
+Version: 1:4.2-3+deb8u4
+
+Package: perl-base
+Architecture: armel
+Version: 5.20.2-3+deb8u12
+
+Package: perl-modules
+Architecture: all
+Multi-Arch: foreign
+Version: 5.20.2-3+deb8u12
+
+Package: procps
+Architecture: armel
+Multi-Arch: foreign
+Version: 2:3.3.9-9+deb8u1
+
+Package: proftpd
+Architecture: armel
+Version: 1.3.6-netgear9
+
+Package: psmisc
+Architecture: armel
+Multi-Arch: foreign
+Version: 22.21-2.netgear1
+
+Package: pwauth
+Architecture: armel
+Version: 2.3.11-0.1.netgear1
+
+Package: python2.7
+Architecture: armel
+Multi-Arch: allowed
+Version: 2.7.9-2+deb8u1
+
+Package: python2.7-minimal
+Architecture: armel
+Multi-Arch: allowed
+Version: 2.7.9-2+deb8u1
+
+Package: radar
+Architecture: armel
+Version: 1.0.6-0
+
+Package: raidar
+Architecture: armel
+Version: 1.1.10
+
+Package: readline-common
+Architecture: all
+Multi-Arch: foreign
+Version: 6.3-8
+
+Package: readynas-agent
+Architecture: armel
+Version: 1.0
+
+Package: readynasos
+Architecture: all
+Version: 6.10.5
+
+Package: readysync
+Architecture: armel
+Version: 1.3.0+610020005.
+
+Package: readytivo
+Architecture: armel
+Version: 1.4.0
+
+Package: replicate
+Architecture: armel
+Version: 1.3.0-2
+
+Package: rn-dictionary
+Architecture: all
+Version: 20210107
+
+Package: rpcbind
+Architecture: armel
+Version: 0.2.1-6+deb8u2
+
+Package: rrd-tool
+Architecture: armel
+Version: 1.6.0-netgear1
+
+Package: rsync
+Architecture: armel
+Multi-Arch: foreign
+Version: 3.1.3-1.netgear1
+
+Package: samba
+Architecture: armel
+Version: 2:4.8.0-12.netgear3
+
+Package: samba-common
+Architecture: all
+Multi-Arch: foreign
+Version: 2:4.8.0-12.netgear3
+
+Package: samba-common-bin
+Architecture: armel
+Version: 2:4.8.0-12.netgear3
+
+Package: samba-libs
+Architecture: armel
+Multi-Arch: same
+Version: 2:4.8.0-12.netgear3
+
+Package: samba-vfs-modules
+Architecture: armel
+Version: 2:4.8.0-12.netgear3
+
+Package: sed
+Architecture: armel
+Version: 4.2.2-4+deb8u1
+
+Package: sensible-utils
+Architecture: all
+Multi-Arch: foreign
+Version: 0.0.9+deb8u1
+
+Package: sg3-utils
+Architecture: armel
+Version: 1.42-2.netgear1
+
+Package: shared-mime-info
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.3-1
+
+Package: smartmontools
+Architecture: armel
+Version: 6.6-netgear1
+
+Package: smbclient
+Architecture: armel
+Version: 2:4.8.0-12.netgear3
+
+Package: snapper
+Architecture: armel
+Version: 0.6.0-netgear1
+
+Package: snmpd
+Architecture: armel
+Version: 5.7.2.1+dfsg-1+deb8u2.netgear1
+
+Package: sqlite3
+Architecture: armel
+Multi-Arch: foreign
+Version: 3.25.2-0.netgear1
+
+Package: startpar
+Architecture: armel
+Version: 0.59-3
+
+Package: systemd
+Architecture: armel
+Multi-Arch: foreign
+Version: 230-7~bpo8+2.netgear3
+
+Package: systemd-sysv
+Architecture: armel
+Multi-Arch: foreign
+Version: 230-7~bpo8+2.netgear3
+
+Package: sysv-rc
+Architecture: all
+Multi-Arch: foreign
+Version: 2.88dsf-59
+
+Package: sysvinit-utils
+Architecture: armel
+Version: 2.88dsf-59
+
+Package: tar
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.27.1-2+deb8u2
+
+Package: target-isns
+Architecture: armel
+Version: 0.6.5-netgear5
+
+Package: tracker
+Architecture: armel
+Version: 1.12.3-0.netgear2
+
+Package: tracker-extract
+Architecture: armel
+Version: 1.12.3-0.netgear2
+
+Package: tracker-miner-fs
+Architecture: armel
+Version: 1.12.3-0.netgear2
+
+Package: ttf-bitstream-vera
+Architecture: all
+Version: 1.10-8
+
+Package: tzdata
+Architecture: all
+Multi-Arch: foreign
+Version: 2019c-0+deb8u1
+
+Package: ucf
+Architecture: all
+Multi-Arch: foreign
+Version: 3.0030
+
+Package: udev
+Architecture: armel
+Multi-Arch: foreign
+Version: 230-7~bpo8+2.netgear3
+
+Package: udhcpc
+Architecture: armel
+Version: 1:1.22.0-9+deb8u4
+
+Package: util-linux
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.25.2-6.netgear1
+
+Package: uuid-runtime
+Architecture: armel
+Multi-Arch: foreign
+Version: 2.25.2-6.netgear1
+
+Package: vault
+Architecture: armel
+Version: 3.6.8
+
+Package: vim-common
+Architecture: armel
+Version: 2:7.4.488-7+deb8u4
+
+Package: vim-tiny
+Architecture: armel
+Version: 2:7.4.488-7+deb8u4
+
+Package: wget
+Architecture: armel
+Multi-Arch: foreign
+Version: 1.16-1+deb8u5.netgear1
+
+Package: winbind
+Architecture: armel
+Version: 2:4.8.0-12.netgear3
+
+Package: wsdd2
+Architecture: armel
+Version: 1.8
+
+Package: xagent
+Architecture: armel
+Version: 3.2.7-1
+
+Package: xz-utils
+Architecture: armel
+Multi-Arch: foreign
+Version: 5.1.1alpha+20120614-2+b3
+
+Package: zip
+Architecture: armel
+Multi-Arch: foreign
+Version: 3.0-8
+
+Package: zlib1g
+Architecture: armel
+Multi-Arch: same
+Version: 1:1.2.8.dfsg-2+b1
+

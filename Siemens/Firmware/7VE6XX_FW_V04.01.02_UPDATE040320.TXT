@@ -1,0 +1,16 @@
+
+
+   S I P R O T E C             Gie & Obd / 28.04.2004
+
+   7VE6xx_04.01.02.PCK
+
+
+   Bootsystem CCPU       V01.06 REL_44
+   CLEAR_PAR_CCPU.KON    V01.01
+   7VE6x-Firmware        V04.01 REL_02
+   BuBWebVE6x            V01.01 REL_02
+
+
+   FirmwareUpdate        V04.03 REL_20
+   Makedisc              V04.03 REL_10
+   Readme                v01.02 REL_01

@@ -1,0 +1,16 @@
+ 
+ 
+SIPROTEC			Wed 08/05/2015 
+ 
+7UT612_04.65.00.PCK 
+ 
+ 
+biosacp2.kon			V01.12 REL_00 
+update_options_V2.xml		zu biosacp2.kon  
+7UT612-Firmware			V04.65 REL_00 
+WebMon				V02.02 REL_00 
+ 
+ 
+FirmwareUpdate			V04.16 REL_00 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

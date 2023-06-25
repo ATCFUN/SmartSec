@@ -1,0 +1,15 @@
+
+
+   S I P R O T E C             Gie & Obd / 02.01.2006
+
+   7SA522_04.38.01.PCK
+
+
+   Bootsystem CCPU       V01.07 REL_01
+   CLEAR_PAR_CCPU.KON    V01.01
+   7SA522-Firmware       V04.38 REL_01
+
+
+   FirmwareUpdate        V04.06 REL_02
+   Makedisc              V04.04 REL_02
+   Readme                V01.02 REL_01

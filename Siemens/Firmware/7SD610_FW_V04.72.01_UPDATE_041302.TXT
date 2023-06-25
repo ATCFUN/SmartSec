@@ -1,0 +1,17 @@
+ 
+ 
+SIPROTEC			06.06.2012 
+ 
+7SD610_04.72.01.PCK 
+ 
+ 
+check_ccpu_7SD610.kon		V04.72 REL_01 
+bootld_C_V2.kon			V02.03 REL_01 
+update_options_V2.xml		zu bootld_C_V2.kon 
+7SD610-Firmware			V04.72 REL_01 
+WebMon				V02.01 REL_01 
+ 
+ 
+FirmwareUpdate			V04.13 REL_02 
+Makedisc			V04.05 REL_01 
+Readme				V01.02 REL_01 

@@ -1,0 +1,16 @@
+
+
+   S I P R O T E C             Gie & Obd / 20.09.2004
+
+   7SD610_04.24.01.PCK
+
+
+   Bootsystem CCPU       V01.06 REL_04
+   CLEAR_PAR_CCPU        V01.01
+   7SD610-Firmware       V04.24 REL_01
+   Web-Applikation       V01.05 REL_02
+
+
+   FirmwareUpdate        V04.04 REL_04
+   Makedisc              V04.03 REL_10
+   Readme                V01.02 REL_01
